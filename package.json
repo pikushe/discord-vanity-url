@@ -1,0 +1,54 @@
+{
+  "name": "discord-url",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pikushe & bes-js",
+  "license": "GPL-3.0",
+  "description": "Discord-Url v14 Vanity Url Bot",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "discord-url": "^7.0.0",
+    "discord.js": "^14.15.2"
+  },
+  "keywords": [
+    "Luppux",
+    "piKu",
+    "pikushe",
+    "piku",
+    "Piku",
+    "pikus",
+    "discord-url",
+    "discord-v14-vanity-url",
+    "discord-v14-vanity",
+    "vanity-url-v14",
+    "v14-vanity-url",
+    "v14",
+    "v14 vanity",
+    "v14 vanity-url",
+    "v14-vanity",
+    "discord-v14",
+    "v14 bot",
+    "discord v14",
+    "discord url botu",
+    "discord url bot",
+    "discord sniper",
+    "discord sniper bot",
+    "discord spammer",
+    "sniper",
+    "spammer",
+    "discord spammer bot",
+    "discord vanity bot",
+    "discord",
+    "v14 vanity",
+    "vanity",
+    "url",
+    "vanity-url"
+  ]
+}
