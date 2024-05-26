@@ -22,7 +22,7 @@ I do not accept any responsibility, advice and return on the people who will use
 
 - First download [Node JS](https://nodejs.org/en/) `(minimum v16)` to your computer.
 
-- Then download the infrastructure and fill the `./config.s` file.
+- Then download the infrastructure and fill the `./config.ts` file.
 - then type the following code into the terminal to install the modules.
 
 ```md
