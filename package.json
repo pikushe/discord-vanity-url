@@ -14,7 +14,7 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
-    "discord-url": "^7.0.0",
+    "discord-url": "^7.0.1",
     "discord.js": "^14.15.2"
   },
   "keywords": [
