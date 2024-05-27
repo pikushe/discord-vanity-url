@@ -33,6 +33,6 @@ npm install
 <br> </br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Delicious+Handrawn&size=30&pause=1000&color=F700E5&repeat=false&width=435&lines=%F0%9F%96%BC%EF%B8%8F+Logic+Explanation)](#)
 
-- [My Discord Profile](https://discord.com/users/928259219038302258)
+- [My Discord Profile](https://discord.com/users/331878061954039808)
 
 - You can contact me if you find any mistake ^^
